@@ -6,7 +6,7 @@
 
 | Platform | Status | Link |
 | --- | --- | --- |
-| Android 8+ | Release pending / در انتظار انتشار | [Android Releases](https://github.com/KingServer-org/KingVPN/releases) |
+| Android 8+ | منتشر شده | [Android Releases](https://github.com/KingServer-org/KingVPN/releases) |
 | iOS | Coming Soon / به‌زودی | — |
 | Windows | Coming Soon / به‌زودی | — |
 
